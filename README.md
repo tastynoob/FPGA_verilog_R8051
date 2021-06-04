@@ -1,5 +1,6 @@
 # FPGA_verilog_R8051
 demo.list是8051程序的verilogrom填充文件
+main.c是8051sdcc程序
 
 core是顶层模块
 
